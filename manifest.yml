@@ -1,0 +1,7 @@
+---
+applications:
+- name: point-to-point-distance
+  path: .
+  random-route: true
+  buildpack: staticfile_buildpack
+  memory: 256M 
