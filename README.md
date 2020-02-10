@@ -9,6 +9,9 @@
  
  https://youtu.be/pIYrdcQ2d7M
  
+Note:
+Fill your mapbox.com token in file index.html 
+ 
  
  References:
  
